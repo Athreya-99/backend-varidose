@@ -1,0 +1,2074 @@
+[
+    {
+        "_id": "ecaa460d4e8c419b9a07da16",
+        "schedule_name": "crocin",
+        "schedule_time": [
+            "11:15"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "6"
+        ],
+        "medicines": [
+            "ccd5d23132c444588fdb78b2"
+        ],
+        "dosage": [
+            "2"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "676bd2746370126aec6377d9",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "1167b5d4b4044cb0aae890c2",
+        "schedule_name": "azithromycin",
+        "schedule_time": [
+            "17:00",
+            "08:15",
+            "08:45"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "medicines": [
+            "42a85c940f424c65b1ef388b"
+        ],
+        "dosage": [
+            "3",
+            "2",
+            "2"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "676bd2746370126aec6377d9",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "0e16eec1d945483d8c55941a",
+        "schedule_name": "crocin",
+        "schedule_time": [
+            "12:00",
+            "14:30"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "0",
+            "2",
+            "3"
+        ],
+        "medicines": [
+            "06f2be2ec668428b8121a30f"
+        ],
+        "dosage": [
+            "2",
+            "3"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "677cc623d8ae48ba44238cfd",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "52da3a819c3b4e529142c5bc",
+        "schedule_name": "cetrizine",
+        "schedule_time": [
+            "09:15"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "0",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "medicines": [
+            "e6a622a3f72e44d390309108"
+        ],
+        "dosage": [
+            "1"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "677cc623d8ae48ba44238cfd",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "d1134cfa1fae49f1910a1cfb",
+        "schedule_name": "crocin",
+        "schedule_time": [
+            "18:30",
+            "10:00"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "5",
+            "6"
+        ],
+        "medicines": [
+            "85bc00309d714712aaef02f9"
+        ],
+        "dosage": [
+            "3",
+            "2"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "677e3edbd8ae48ba44239692",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "77bcd9e17da4459fa68df39f",
+        "schedule_name": "paracetamol",
+        "schedule_time": [
+            "19:00",
+            "10:30",
+            "11:00"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "0",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "medicines": [
+            "3c90e709ece847afaac879fa"
+        ],
+        "dosage": [
+            "3",
+            "3",
+            "1"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "677e3edbd8ae48ba44239692",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "dea18e2ade4f407f841ad727",
+        "schedule_name": "cetrizine",
+        "schedule_time": [
+            "20:15",
+            "14:00"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "0",
+            "2",
+            "6"
+        ],
+        "medicines": [
+            "e769125ed29b4a9faddb2474"
+        ],
+        "dosage": [
+            "1",
+            "2"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "677e3edbd8ae48ba44239692",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "8b3881933e12499fabb15f36",
+        "schedule_name": "paracetamol",
+        "schedule_time": [
+            "07:00"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "5"
+        ],
+        "medicines": [
+            "facc971c9c0748f680a79a93"
+        ],
+        "dosage": [
+            "2"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "6791324eaad7089e64a67794",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "01ff707db7c343dc8789fae4",
+        "schedule_name": "metformin",
+        "schedule_time": [
+            "15:30",
+            "16:30",
+            "11:45"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "2",
+            "4",
+            "5",
+            "6"
+        ],
+        "medicines": [
+            "a44978aa8368429298eceb46"
+        ],
+        "dosage": [
+            "1",
+            "1",
+            "2"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "6791324eaad7089e64a67794",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "a727ac06f7fb4f5faefd304a",
+        "schedule_name": "amoxilin",
+        "schedule_time": [
+            "09:45",
+            "18:00"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "0",
+            "4",
+            "6"
+        ],
+        "medicines": [
+            "58bc12f49888432da300ee8f"
+        ],
+        "dosage": [
+            "3",
+            "2"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "6791324eaad7089e64a67794",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "f6cad01251d241df919e919a",
+        "schedule_name": "metformin",
+        "schedule_time": [
+            "11:00"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "medicines": [
+            "166dfe15226b4ac1b5b147da"
+        ],
+        "dosage": [
+            "1"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "6791f15caad7089e64a67964",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "2a4609d976e9462a8076ebcb",
+        "schedule_name": "paracetamol",
+        "schedule_time": [
+            "06:15"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "0",
+            "1",
+            "3"
+        ],
+        "medicines": [
+            "191b794706f2429b95a243e1"
+        ],
+        "dosage": [
+            "2"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "6791f15caad7089e64a67964",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "1b041bd17156435981473ca6",
+        "schedule_name": "crocin",
+        "schedule_time": [
+            "07:30",
+            "16:15"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "0",
+            "1",
+            "2",
+            "4",
+            "5",
+            "6"
+        ],
+        "medicines": [
+            "273062c070e64deab78f6035"
+        ],
+        "dosage": [
+            "2",
+            "3"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "67972a2baad7089e64a67c8c",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "ba7eed939735414a9c1ddd0d",
+        "schedule_name": "azithromycin",
+        "schedule_time": [
+            "13:30"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "1",
+            "3",
+            "6"
+        ],
+        "medicines": [
+            "0886c7849ac84cfba29688bc"
+        ],
+        "dosage": [
+            "2"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "67972a2baad7089e64a67c8c",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "3a26858141d24aa391a018fe",
+        "schedule_name": "crocin",
+        "schedule_time": [
+            "07:00"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "0",
+            "1",
+            "2",
+            "4",
+            "5",
+            "6"
+        ],
+        "medicines": [
+            "5dfbed0031df401198c2ad1b"
+        ],
+        "dosage": [
+            "2"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "679b4993742cf91c5d16a1b9",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "5245d374be614b8dbb0376ff",
+        "schedule_name": "azithromycin",
+        "schedule_time": [
+            "08:00",
+            "06:00"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "5",
+            "6"
+        ],
+        "medicines": [
+            "1c3f0d9248ac4c54ad3b0bcc"
+        ],
+        "dosage": [
+            "1",
+            "1"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "679b4993742cf91c5d16a1b9",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "5584d06b4c9a4b91963ab2d8",
+        "schedule_name": "metformin",
+        "schedule_time": [
+            "14:45",
+            "20:30",
+            "18:45"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "0",
+            "2",
+            "3",
+            "4",
+            "6"
+        ],
+        "medicines": [
+            "eb85cf044e3840fc9d114de6"
+        ],
+        "dosage": [
+            "2",
+            "1",
+            "3"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "67b71147e9a50465099ffd99",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "fcf6a70ebae241cf965bad34",
+        "schedule_name": "cetrizine",
+        "schedule_time": [
+            "11:15",
+            "14:30",
+            "18:45"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "0",
+            "1",
+            "2",
+            "4"
+        ],
+        "medicines": [
+            "fc96a14c6b3a46de9d5b40d5"
+        ],
+        "dosage": [
+            "1",
+            "1",
+            "2"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "67b71147e9a50465099ffd99",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "3ac6dd38daa24ceb998f2a79",
+        "schedule_name": "cetrizine",
+        "schedule_time": [
+            "12:00",
+            "07:30",
+            "20:15"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "medicines": [
+            "1881a8b6e4e243b3a84a57b5"
+        ],
+        "dosage": [
+            "2",
+            "1",
+            "3"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "67bc4fed0c87c2bcc1843f6d",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "833a2323808041b19edde81a",
+        "schedule_name": "metformin",
+        "schedule_time": [
+            "20:15",
+            "20:00",
+            "14:00"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "0",
+            "2",
+            "3",
+            "5",
+            "6"
+        ],
+        "medicines": [
+            "b64c1a4285904ae397a31b3f"
+        ],
+        "dosage": [
+            "3",
+            "2",
+            "2"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "67bc4fed0c87c2bcc1843f6d",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "d9c5de8fc6874edfb9976f56",
+        "schedule_name": "azithromycin",
+        "schedule_time": [
+            "06:45"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "0",
+            "1",
+            "2",
+            "4",
+            "5",
+            "6"
+        ],
+        "medicines": [
+            "556dbbe22fda4618ad41acca"
+        ],
+        "dosage": [
+            "3"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "67bc4fed0c87c2bcc1843f6d",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "8c22a5fbf2614b12bca8c003",
+        "schedule_name": "crocin",
+        "schedule_time": [
+            "10:30"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "1",
+            "3",
+            "4",
+            "6"
+        ],
+        "medicines": [
+            "66c7fe81440e45c787f43ff1"
+        ],
+        "dosage": [
+            "2"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "67cea8f30c87c2bcc18442f3",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "bfad0f5b978041dabc0361c5",
+        "schedule_name": "cetrizine",
+        "schedule_time": [
+            "10:45",
+            "12:00",
+            "16:00"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "medicines": [
+            "2308725f973849eca11273b4"
+        ],
+        "dosage": [
+            "1",
+            "1",
+            "3"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "67cea8f30c87c2bcc18442f3",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "c6ce8aa667e9496692217cc1",
+        "schedule_name": "dolo",
+        "schedule_time": [
+            "14:00"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "2",
+            "3",
+            "5",
+            "6"
+        ],
+        "medicines": [
+            "507aba03421f4b0695e432c9"
+        ],
+        "dosage": [
+            "1"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "67cea8f30c87c2bcc18442f3",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "e8c1807637b24b2ea2d6e749",
+        "schedule_name": "crocin",
+        "schedule_time": [
+            "12:30",
+            "10:00"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "medicines": [
+            "696c60734d8b4ac7b6265315"
+        ],
+        "dosage": [
+            "3",
+            "1"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "6791f30caad7089e64a67a36",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "636cff940efa48cdb9807df3",
+        "schedule_name": "amoxilin",
+        "schedule_time": [
+            "17:00",
+            "07:00"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "0",
+            "1",
+            "2",
+            "5",
+            "6"
+        ],
+        "medicines": [
+            "524404d7ad7340a999dd8eaf"
+        ],
+        "dosage": [
+            "2",
+            "3"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "6791f30caad7089e64a67a36",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "e926bfeeccdd4b9ab1a7ce7d",
+        "schedule_name": "cetrizine",
+        "schedule_time": [
+            "15:15"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "0",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "medicines": [
+            "1ce256a1f9ee40dc922ccdff"
+        ],
+        "dosage": [
+            "3"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "6791f30caad7089e64a67a36",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "4e77b5f2bf874a8abdee97e1",
+        "schedule_name": "amoxilin",
+        "schedule_time": [
+            "17:45",
+            "11:15"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "1",
+            "3",
+            "4",
+            "6"
+        ],
+        "medicines": [
+            "13239125ff7f4a49bb43ad9a"
+        ],
+        "dosage": [
+            "1",
+            "1"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "67c95ea00c87c2bcc18440eb",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "ac6d721dff7848beb0d90f03",
+        "schedule_name": "cetrizine",
+        "schedule_time": [
+            "12:30",
+            "18:30"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "0",
+            "1",
+            "2",
+            "4",
+            "5",
+            "6"
+        ],
+        "medicines": [
+            "dc282a705e0343c1b179c37e"
+        ],
+        "dosage": [
+            "1",
+            "1"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "67b70209e9a50465099ffbac",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "2c9679b573c94019801ff339",
+        "schedule_name": "dolo",
+        "schedule_time": [
+            "19:45",
+            "06:45",
+            "09:30"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "1",
+            "3",
+            "6"
+        ],
+        "medicines": [
+            "72e2d02b84a24fb39d573e61"
+        ],
+        "dosage": [
+            "2",
+            "3",
+            "1"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "67b70209e9a50465099ffbac",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "7314a663790c4473a98277b9",
+        "schedule_name": "dolo",
+        "schedule_time": [
+            "11:15",
+            "11:30",
+            "19:45"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "5",
+            "6"
+        ],
+        "medicines": [
+            "da4378190dc245d78a800f84"
+        ],
+        "dosage": [
+            "1",
+            "2",
+            "1"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "67e3d36b4c91d6bb6791b9d0",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "730556ddc71945b8a36da893",
+        "schedule_name": "metformin",
+        "schedule_time": [
+            "09:30"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "1",
+            "2",
+            "4",
+            "6"
+        ],
+        "medicines": [
+            "f79b0e027fb249fb9f3b39e0"
+        ],
+        "dosage": [
+            "2"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "67e3db824c91d6bb6791bafa",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "2c3f35e3147f4cc59f02896e",
+        "schedule_name": "crocin",
+        "schedule_time": [
+            "11:15",
+            "14:30",
+            "07:45"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "0",
+            "3",
+            "4",
+            "6"
+        ],
+        "medicines": [
+            "d0c53e2c845b43fb8fb257fa"
+        ],
+        "dosage": [
+            "2",
+            "2",
+            "2"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "67cea6bc0c87c2bcc1844246",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "7a0890771c54496e92960c40",
+        "schedule_name": "crocin",
+        "schedule_time": [
+            "06:00"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "0",
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "medicines": [
+            "0e44028cb5134a41a6dfdcba"
+        ],
+        "dosage": [
+            "2"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "676aa2096370126aec63757f",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "b564fd95c2fb4ee1a54e586c",
+        "schedule_name": "crocin",
+        "schedule_time": [
+            "12:45",
+            "11:30"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "0",
+            "2",
+            "3",
+            "4",
+            "6"
+        ],
+        "medicines": [
+            "3b30400a476041f9902c0ac0"
+        ],
+        "dosage": [
+            "1",
+            "2"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "677636816370126aec6383cd",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "2a0e438778d6455eb44e5069",
+        "schedule_name": "paracetamol",
+        "schedule_time": [
+            "11:00",
+            "09:15",
+            "19:30"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "2",
+            "3",
+            "6"
+        ],
+        "medicines": [
+            "48bc9a94851d4097beebab23"
+        ],
+        "dosage": [
+            "2",
+            "2",
+            "1"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "677636816370126aec6383cd",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "b3cc1b440f32410f9b3113af",
+        "schedule_name": "dolo",
+        "schedule_time": [
+            "08:00",
+            "16:00"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "medicines": [
+            "b12600cb92f24600874278ca"
+        ],
+        "dosage": [
+            "1",
+            "3"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "6800d0b6155c452510e1b066",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "717d136b463e4a9cb8a26d98",
+        "schedule_name": "cetrizine",
+        "schedule_time": [
+            "09:15"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "medicines": [
+            "a1e5be1fa5904bc29630be29"
+        ],
+        "dosage": [
+            "1"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "6800d0b6155c452510e1b066",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "ab850e8735cd4237bc8f9f48",
+        "schedule_name": "azithromycin",
+        "schedule_time": [
+            "18:45",
+            "18:45",
+            "08:30"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "medicines": [
+            "5d4365229cd745df8fbc9e3a"
+        ],
+        "dosage": [
+            "2",
+            "2",
+            "1"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "67e3e4134c91d6bb6791bd3f",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "0a84db329f794c6e86a7b82b",
+        "schedule_name": "metformin",
+        "schedule_time": [
+            "19:15",
+            "10:15",
+            "16:00"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "medicines": [
+            "6a5e59b1363a47229d31fe87"
+        ],
+        "dosage": [
+            "2",
+            "1",
+            "3"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "67e3e4134c91d6bb6791bd3f",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "8afa37ed6218476ab8d046d0",
+        "schedule_name": "azithromycin",
+        "schedule_time": [
+            "10:00"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "1",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "medicines": [
+            "4417fe9c75f54ce4b4a2c1c2"
+        ],
+        "dosage": [
+            "1"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "681b39c9155c452510e1b870",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "8b38fa9a6a3c41059af447df",
+        "schedule_name": "crocin",
+        "schedule_time": [
+            "14:45",
+            "08:15",
+            "11:30"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "medicines": [
+            "7031bf40202642bbafbba4ce"
+        ],
+        "dosage": [
+            "1",
+            "1",
+            "1"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "681b39c9155c452510e1b870",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "04ce7c92ea124d0a9610359f",
+        "schedule_name": "amoxilin",
+        "schedule_time": [
+            "09:45",
+            "12:45"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "5",
+            "6"
+        ],
+        "medicines": [
+            "05078bf44e1a4c04b882a16e"
+        ],
+        "dosage": [
+            "3",
+            "3"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "681b39c9155c452510e1b870",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "7191c9a72fc64f92ad41b5dd",
+        "schedule_name": "metformin",
+        "schedule_time": [
+            "09:45",
+            "07:45"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "medicines": [
+            "b49208f8d5644224882f92da"
+        ],
+        "dosage": [
+            "3",
+            "3"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "681b4092155c452510e1b8cc",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "4c46b015a09f4d6baf5a66c9",
+        "schedule_name": "amoxilin",
+        "schedule_time": [
+            "13:45",
+            "08:45",
+            "16:00"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "5",
+            "6"
+        ],
+        "medicines": [
+            "8190ffb91504461d8f1d65a7"
+        ],
+        "dosage": [
+            "1",
+            "1",
+            "3"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "681c4f1a155c452510e1ba3c",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "a3c5af0a124d410b996494ca",
+        "schedule_name": "paracetamol",
+        "schedule_time": [
+            "16:15",
+            "17:30"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "medicines": [
+            "6dbda31f33844ef2a1a1a765"
+        ],
+        "dosage": [
+            "3",
+            "3"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "681c4f1a155c452510e1ba3c",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "cd9938a3bbc845f19e52a968",
+        "schedule_name": "amoxilin",
+        "schedule_time": [
+            "18:45"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "medicines": [
+            "b72c5415e29948578211ab4f"
+        ],
+        "dosage": [
+            "3"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "681c5f16155c452510e1cb90",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "c9ac02bf23ed49dfbf1cfb68",
+        "schedule_name": "amoxilin",
+        "schedule_time": [
+            "16:00"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "medicines": [
+            "84ae3e8049cc4c77be68d408"
+        ],
+        "dosage": [
+            "3"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "681c64e1155c452510e1cc54",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "f27edabf712d4caca58068b6",
+        "schedule_name": "cetrizine",
+        "schedule_time": [
+            "06:00"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "2",
+            "3",
+            "4"
+        ],
+        "medicines": [
+            "43d29395d07f4350990e4fd8"
+        ],
+        "dosage": [
+            "3"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "681c6a6d155c452510e1cd4a",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "924fef10c0e540c998a735b0",
+        "schedule_name": "metformin",
+        "schedule_time": [
+            "18:45"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "0",
+            "1",
+            "4",
+            "5",
+            "6"
+        ],
+        "medicines": [
+            "1990922fd83d42cc92dbbdca"
+        ],
+        "dosage": [
+            "1"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "681c6a6d155c452510e1cd4a",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "d853b6343395433a86411cf6",
+        "schedule_name": "crocin",
+        "schedule_time": [
+            "16:00"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "medicines": [
+            "a24cb57ec702472a928c261c"
+        ],
+        "dosage": [
+            "2"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "681c6d24155c452510e1ce05",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "e1d0f41a5ba2473095d68331",
+        "schedule_name": "amoxilin",
+        "schedule_time": [
+            "19:15",
+            "11:45",
+            "06:45"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "medicines": [
+            "ecf36354c9fb4dac9f00942a"
+        ],
+        "dosage": [
+            "2",
+            "3",
+            "1"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "681c6d24155c452510e1ce05",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "2afe7f9202ef4908abfc73d6",
+        "schedule_name": "dolo",
+        "schedule_time": [
+            "07:00"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "medicines": [
+            "4c4a07ba81c14d31ab0e0983"
+        ],
+        "dosage": [
+            "3"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "681c6d24155c452510e1ce05",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "a111588476e648379887083a",
+        "schedule_name": "metformin",
+        "schedule_time": [
+            "06:15"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "medicines": [
+            "77fc2b33388f48608d5a187d"
+        ],
+        "dosage": [
+            "2"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "681c70af155c452510e1cefb",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "ce71952f1f3841358277d329",
+        "schedule_name": "azithromycin",
+        "schedule_time": [
+            "14:00",
+            "17:45",
+            "09:45"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "1",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "medicines": [
+            "6b9a0ef592634cb1b3195e38"
+        ],
+        "dosage": [
+            "3",
+            "2",
+            "3"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "681c70af155c452510e1cefb",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "26c14bbfa74a46e38242bba4",
+        "schedule_name": "amoxilin",
+        "schedule_time": [
+            "11:30"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "2",
+            "4",
+            "6"
+        ],
+        "medicines": [
+            "4e5f846dd3964047af3b4a91"
+        ],
+        "dosage": [
+            "2"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "67e3e1c44c91d6bb6791bc7c",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "298e5113d1554effb493425c",
+        "schedule_name": "paracetamol",
+        "schedule_time": [
+            "06:00"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "medicines": [
+            "45b3acb3c17642f1b5a6c0a4"
+        ],
+        "dosage": [
+            "3"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "67e3e1c44c91d6bb6791bc7c",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "e672163b195f4e6da6b10bac",
+        "schedule_name": "dolo",
+        "schedule_time": [
+            "06:00",
+            "12:45"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "medicines": [
+            "9c881231c22b469b80d7b4a4"
+        ],
+        "dosage": [
+            "1",
+            "2"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "67e3e1c44c91d6bb6791bc7c",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "26443d525a964a3787eb392b",
+        "schedule_name": "amoxilin",
+        "schedule_time": [
+            "07:15"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "1",
+            "2",
+            "6"
+        ],
+        "medicines": [
+            "2a244fd26e004ac9abecdcda"
+        ],
+        "dosage": [
+            "3"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "681cbfc3155c452510e1d127",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "8f6b8d5f40604ac48d06c174",
+        "schedule_name": "metformin",
+        "schedule_time": [
+            "09:00"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "0",
+            "2",
+            "3",
+            "5",
+            "6"
+        ],
+        "medicines": [
+            "f7cf8f82f78748f79a97dff9"
+        ],
+        "dosage": [
+            "3"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "681cbfc3155c452510e1d127",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "c39683b00bbf4f5c85005b59",
+        "schedule_name": "crocin",
+        "schedule_time": [
+            "07:00"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "0",
+            "2",
+            "4",
+            "5",
+            "6"
+        ],
+        "medicines": [
+            "20043ddec8eb4567b510520b"
+        ],
+        "dosage": [
+            "3"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "681cbfc3155c452510e1d127",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "78ec064dba994efabe8accbc",
+        "schedule_name": "cetrizine",
+        "schedule_time": [
+            "16:45",
+            "15:15",
+            "09:15"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "0",
+            "4",
+            "5",
+            "6"
+        ],
+        "medicines": [
+            "546150c4b6c04b1ab8985427"
+        ],
+        "dosage": [
+            "2",
+            "3",
+            "1"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "682f0fd7d399e2c35f418fca",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    },
+    {
+        "_id": "c35011c675ae4af99e7f1523",
+        "schedule_name": "metformin",
+        "schedule_time": [
+            "15:15"
+        ],
+        "schedule_type": 0,
+        "days_of_week": [
+            "1",
+            "2",
+            "4",
+            "5"
+        ],
+        "medicines": [
+            "31b0c69938754e54846e664d"
+        ],
+        "dosage": [
+            "3"
+        ],
+        "box_id": "67651a436370126aec636b9b",
+        "device_id": "67651a436370126aec636ba4",
+        "config": "config",
+        "start_date": null,
+        "end_date": null,
+        "patient_id": "682f0fd7d399e2c35f418fca",
+        "unit": "mg",
+        "interval": "",
+        "createdAt": "2025-07-03T13:57:08.000+0000",
+        "updatedAt": "2025-07-03T13:57:08.000+0000"
+    }
+]
