@@ -235,21 +235,23 @@ def single_medicine_heatmap(patient_id, medicine_name, history_filename='history
     pivot = full_df.pivot(index="date", columns="time", values="status")
     pivot.index = pd.to_datetime(pivot.index).strftime("%d-%m-%Y")
 
+    
     status_map = {
-        "Not Scheduled": 0,
-        "Missed": 1,
-        "Late": 2,
-        "On Time": 3
+        "Missed": 0,
+        "Late": 1,
+        "On Time": 2
     }
-    heatmap_data = pivot.replace(status_map).infer_objects(copy=False)
+    # NaN (blank cells) for those not scheduled
+    filtered_pivot = pivot.replace("Not Scheduled", np.nan)
+    heatmap_data = filtered_pivot.replace(status_map).infer_objects(copy=False)
+    cmap = ListedColormap(['red', 'orange', 'green'])
 
     plt.figure(figsize=(10, 8))
-    colors = ['white', 'red', 'orange', 'green']
-    ax = sns.heatmap(
+    sns.heatmap(
         heatmap_data,
-        annot=pivot,
+        annot=filtered_pivot,  # Shows actual status text in each box
         fmt="",
-        cmap=colors,
+        cmap=cmap,
         cbar=False,
         linewidths=1,
         linecolor='black'
@@ -258,11 +260,11 @@ def single_medicine_heatmap(patient_id, medicine_name, history_filename='history
     plt.xlabel("Scheduled Time")
     plt.ylabel("Date")
 
+    from matplotlib.patches import Patch
     legend_elements = [
         Patch(facecolor='green', label='On Time'),
         Patch(facecolor='orange', label='Late'),
-        Patch(facecolor='red', label='Missed'),
-        Patch(facecolor='white', label='Not Scheduled')
+        Patch(facecolor='red', label='Missed')
     ]
     plt.legend(handles=legend_elements, bbox_to_anchor=(1.05, 1), loc='upper left')
     plt.tight_layout()
