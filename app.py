@@ -135,7 +135,14 @@ def heatmap():
         Patch(facecolor='green', label='Correct Dosage'),
         Patch(facecolor='red', label='Missed Dosage/ Overdosage')
     ]
-    plt.legend(handles=legend_elements, loc='upper right')
+    plt.legend(
+    handles=legend_elements,
+    bbox_to_anchor=(1.02, 0.5),   # right beside plot, vertically centered
+    loc='center left',
+    borderaxespad=0.
+    prop={'size': 14}
+    )
+    plt.subplots_adjust(right=0.80) 
     plt.tight_layout()
     buf = io.BytesIO()
     plt.savefig(buf, format='png')
