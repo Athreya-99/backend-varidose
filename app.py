@@ -114,7 +114,7 @@ def heatmap():
         color_matrix[col] = np.where((pivot[col] == 0) | (pivot[col] > sched), 0, 1)
     color_matrix.index = pivot.index
     custom_cmap = ListedColormap(["#dc4c4c", "#62d666"])
-    plt.figure(figsize=(8, 5))
+    plt.figure(figsize=(10, 6))
     sns.heatmap(
         color_matrix,
         annot=pivot,
@@ -130,12 +130,26 @@ def heatmap():
     plt.ylabel("date", fontsize=12)
     plt.xticks(fontsize=12)
     plt.yticks(fontsize=10)
+    from matplotlib.patches import Patch
+    legend_elements = [
+        Patch(facecolor='green', label='Correct Dosage'),
+        Patch(facecolor='red', label='Missed Dosage/ Overdosage')
+    ]
+    plt.legend(handles=legend_elements, loc='upper right')
     plt.tight_layout()
     buf = io.BytesIO()
     plt.savefig(buf, format='png')
     plt.close()
     buf.seek(0)
     return send_file(buf, mimetype='image/png')
+
+
+
+
+
+
+
+
 
 @app.route('/api/medicine-heatmap')
 def get_medicine_heatmap():
