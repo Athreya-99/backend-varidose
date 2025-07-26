@@ -139,7 +139,7 @@ def heatmap():
     handles=legend_elements,
     bbox_to_anchor=(1.02, 0.5),   # right beside plot, vertically centered
     loc='center left',
-    borderaxespad=0.
+    borderaxespad=0.,
     prop={'size': 14}
     )
     plt.subplots_adjust(right=0.80) 
